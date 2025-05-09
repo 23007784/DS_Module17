@@ -1,4 +1,4 @@
-# Ex24 Topological Sort
+# Ex 5D Topological Sort
 ## DATE: 25.04.25
 ## AIM:
 To compose the code to determine whether the topological ordering for the following graph is possible or not.
